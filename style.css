@@ -1,10 +1,11 @@
 img {
-	width: 200px;
+	image-rendering: pixelated;
 }
 
 body {
 	text-align: center;
-	font-family: 'Andale Mono';
+	font-family: "Andale Mono", monospace;
 	color: darkorchid;
-	background: midnightblue;
+	background-color: midnightblue;
 }
+
